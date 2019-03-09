@@ -1,2 +1,6 @@
-# shrine
-A sample shopping app that uses Flutter's Material Component.
+# MDC-100 Series of Codelabs
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
